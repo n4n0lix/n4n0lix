@@ -1,13 +1,9 @@
-\> be me
-
-\> be software dev for 15+ years
+\> 15+ years software development experience
 
 \> agile advocate
 
-\> currently working in hamburg as mobile games dev
+\> currently software engineer for game architecture and tooling
 
-\> also three years experience as scrum master and agile project manager
+\> three years experience as scrum master and agile project manager
 
 \> c++, c#, java, go, ruby, python
-
-\>  frontend, backend, fullstack-dev
