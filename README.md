@@ -2,7 +2,7 @@
 
 \> agile advocate
 
-\> currently software engineer for game architecture and tooling
+\> software engineer for game architecture and tooling
 
 \> three years experience as scrum master and agile project manager
 
